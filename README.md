@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praise-mut" alt="praise-mut" /></a> </p>
 
-- 🌱 I’m currently learning **PL/MySQL, Java Programming**
+- 🌱 I’m currently learning **PL/MySQL**
 
 - 📫 How to reach me **mutijimapras@gmail.com**
 
