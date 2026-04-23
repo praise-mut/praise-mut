@@ -1,24 +1,88 @@
-<h1 align="center">Hi 👋, I'm Praise Mutijima</h1>
-<h3 align="center">A passionate Tech Enthusiast from Rwanda</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=praise-mut.praise-mut">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praise-mut&label=Profile%20views&color=0e75b6&style=flat" alt="praise-mut" /> </p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there!+👋;I'm+Mutijima+Praise;Future+Software+Engineer;Building+Real+World+Systems...;&center=true&size=30">
+  </a>
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praise-mut" alt="praise-mut" /></a> </p>
+<h3 align="center">An ambitious IT student & Software Developer from Rwanda 🇷🇼</h3>
 
-- 🌱 
+---
 
-- 📫 How to reach me **mutijimapras@gmail.com**
+## 🚀 About Me
 
-- ⚡ Fun fact **I like Designing**
+- 🎓 Studying **Information Management (IT)** at AUCA  
+- 💻 Passionate about **Software Development & System Design**
+- 🧠 Currently improving skills in:
+  - Java (Swing, JDBC, Hibernate)
+  - Database Systems (MySQL, Oracle, PL/SQL)
+  - Networking (Cisco Packet Tracer)
+- 🔥 Building real-world projects like:
+  - 🗓️ **Campus Event Management System**
+- ⚡ **Goal:** Build systems that create real impact & achieve financial freedom
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/praise-mut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praise-mut" height="30" width="40" /></a>
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praise-mut&show_icons=true&locale=en&layout=compact" alt="praise-mut" /></p>
+## 📌 Current Focus
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praise-mut&show_icons=true&locale=en" alt="praise-mut" /></p>
+- 🧩 Building **Java Desktop Applications (Swing + Hibernate)**
+- 🗄️ Mastering **Database Design & Optimization**
+- 🌐 Exploring **Full Stack Development**
+- ⚙️ Learning **Automation & Real-world Systems**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=praise-mut&theme=monokai-metallian&hide_border=true" height="180"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=praise-mut&show_icons=true&theme=react&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=praise-mut&layout=compact&theme=react&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <code><a href="#" target="_blank">LinkedIn</a></code>
+  <code><a href="#" target="_blank">GitHub</a></code>
+  <code><a href="#" target="_blank">Email</a></code>
+</p>
+
+---
+
+## 💡 Personal Motto
+
+> **"Praying + Scripture = Spiritual Growth"**
+
+---
+
+## 🔥 Fun Fact
+
+⚡ I’m on a mission to turn my skills into real income and build a future where I can support my family.
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" />
+</p>
