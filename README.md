@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there!+👋;I'm+Mutijima+Praise; Future+Software+Engineer;Building+Real+World+Systems...;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there!+👋;I'm+Mutijima+Praise;Future+Software+Developer;Building+Real+World+Systems...;&center=true&size=30">
   </a>
 </h1>
 
@@ -18,7 +18,7 @@
   - Typescript
   - C#
 - 🔥 Building real-world projects like:
-  - 🗓️ **Campus Event Management System**
+  - 🗓️ **Personal Budgeting and Management System**
 - ⚡ **Goal:** Build systems that create real impact & achieve financial freedom
 
 ---
