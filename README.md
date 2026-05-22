@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there!+👋;I'm+Mutijima+Praise;Future+Software+Engineer;Building+Real+World+Systems...;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there!+👋;I'm+Mutijima+Praise; Future+Software+Engineer;Building+Real+World+Systems...;&center=true&size=30">
   </a>
 </h1>
 
@@ -15,9 +15,8 @@
 - 🎓 Studying **Information Management (IT)** at AUCA  
 - 💻 Passionate about **Software Development & System Design**
 - 🧠 Currently improving skills in:
-  - Java (Swing, JDBC, Hibernate)
-  - Database Systems (MySQL, Oracle, PL/SQL)
-  - Networking (Cisco Packet Tracer)
+  - Typescript
+  - C#
 - 🔥 Building real-world projects like:
   - 🗓️ **Campus Event Management System**
 - ⚡ **Goal:** Build systems that create real impact & achieve financial freedom
