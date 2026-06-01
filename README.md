@@ -67,8 +67,7 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-  <code><a href="#" target="_blank">LinkedIn</a></code>
-  <code><a href="#" target="_blank">GitHub</a></code>
+  <code><a href="https://www.linkedin.com/in/praise-mut/" target="_blank">LinkedIn</a></code>
   <code><a href="#" target="_blank">Email</a></code>
 </p>
 
